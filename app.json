@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "native-base-project1",
+    "slug": "native-base-project1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native-base-project1"
+}
